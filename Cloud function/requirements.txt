@@ -1,0 +1,7 @@
+google-api-python-client
+google-auth
+python-dateutil
+Flask
+functions-framework
+Cloud function main.py
+Cloud function
